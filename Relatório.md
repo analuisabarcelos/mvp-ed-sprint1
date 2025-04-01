@@ -19,5 +19,6 @@ O objetivo desse projeto é responder perguntas relacionadas a vendas de roupas 
 
 # 5) Análise
 ## 5.1) Qualidade dos dados
+## 5.2) Respostas das questões levantadas
 
 # 6) Autoavaliação
