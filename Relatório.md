@@ -8,10 +8,24 @@ O objetivo desse projeto de engenharia de dados é responder perguntas relaciona
 
 # 2) Coleta
 ## 2.1) Busca pelos dados
+Iniciou-se o processo de busca pelo conjunto de dados no site www.kaggle.com.br, uma comunidade voltada para o aprendizado em ciência de dados. O conjunto de dados escolhido foi no tema de venda de roupas no setor varejo.
 ## 2.2) Coleta dos dados
+Segundo a plataforma Kaggle, o conjunto de dados escolhido está na versão bronze e tem 6 arquivos em .csv. Foi escolhido um conjunto com mais de um arquivo para intensificar a prática da modelagem com o modelo estrela.
+Os dados simulam 2 anos de vendas de uma empresa multinacional de venda de roupas, totalizando 1GB de tamanho.
+![image](https://github.com/user-attachments/assets/98618ccf-0961-4b5b-9627-0098b327289d)
+
+Os arquivos foram baixados para o computador local para ser feito o upload no Community Databricks, plataforma sugerida e escolhida para produzir o projeto MVP.
+O processo de upload no Community Databricks é iniciado com os comandos + New -> Add or upload data no canto superior esquerdo da plataforma.
+![image](https://github.com/user-attachments/assets/3ce47fa9-a724-43e7-8440-840a87c2680a)
+
+Os 6 arquivos são escolhidos para serem carregados e salvos na pasta "global_fashion" para melhor organização no diretório DBFS. São eles: clientes.csv, descontos.csv, empregados.csv, produtos.csv, lojas.csv e transacoes.csv
+[IMAGEM]
+
+Com isso, todos os dados necessários já estão no Databricks para iniciar o projeto no notebook.
 
 # 3) Modelagem
 ## 3.1) Modelo estrela
+
 ## 3.2) Catálogo de dados
 
 # 4) Carga
