@@ -8,7 +8,7 @@ O objetivo desse projeto de engenharia de dados é responder perguntas relaciona
 
 # 2) Coleta
 ## 2.1) Busca pelos dados
-Iniciou-se o processo de busca pelo conjunto de dados no site www.kaggle.com.br, uma comunidade voltada para o aprendizado em ciência de dados. O conjunto de dados escolhido foi no tema de venda de roupas no setor varejo.
+Iniciou-se o processo de busca pelo conjunto de dados no site www.kaggle.com.br, uma comunidade voltada para o aprendizado em ciência de dados. O conjunto de dados escolhido foi no tema de venda de roupas no setor varejo, disponível no link a seguir: https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset 
 ## 2.2) Coleta dos dados
 Segundo a plataforma Kaggle, o conjunto de dados escolhido está na versão bronze e tem 6 arquivos em .csv. Foi escolhido um conjunto com mais de um arquivo para intensificar a prática da modelagem com o modelo estrela.
 Os dados simulam 2 anos de vendas de uma empresa multinacional de venda de roupas, totalizando 1GB de tamanho.
