@@ -1,5 +1,5 @@
 # 1) Objetivo do projeto
-O objetivo desse projeto é responder perguntas relacionadas a vendas de roupas no formato varejo. Deseja-se responder as questões abaixo:
+O objetivo desse projeto de engenharia de dados é responder perguntas relacionadas a vendas de roupas no formato varejo. Deseja-se responder as questões abaixo:
 - Qual o mês com mais vendas no ano?
 - E o mês com menos vendas?
 - Qual produto é mais vendido em um ano?
@@ -22,3 +22,4 @@ O objetivo desse projeto é responder perguntas relacionadas a vendas de roupas 
 ## 5.2) Respostas das questões levantadas
 
 # 6) Autoavaliação
+Inicialmente, pensou-se em usar dados da empresa em que trabalho para aproveitar o conhecimento do negócio relacionado ao conjunto de dados porém, não estava sendo um processo simples de ter a autorização. Desse modo, foi escolhido um tema de interesse e iniciada a busca no Kaggle, por ser conhecido amplamente pela quantidade de dados disponível para pessoas que querem aprender mais sobre análise e ciência de dados. Nesse contexto, entende-se que, é muito provável que quanto mais conhecimento do negócio se tem, melhores são as perguntas, que consequentemente trazem respostas melhores e análises com mais qualidade para o negócio. 
