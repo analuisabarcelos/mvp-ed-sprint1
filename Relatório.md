@@ -19,7 +19,8 @@ O processo de upload no Community Databricks é iniciado com os comandos + New -
 ![image](https://github.com/user-attachments/assets/3ce47fa9-a724-43e7-8440-840a87c2680a)
 
 Os 6 arquivos são escolhidos para serem carregados e salvos na pasta "global_fashion" para melhor organização no diretório DBFS. São eles: clientes.csv, descontos.csv, empregados.csv, produtos.csv, lojas.csv e transacoes.csv
-[IMAGEM]
+![image](https://github.com/user-attachments/assets/63ac525a-a0cc-42ed-8cb7-2684aecc2928)
+
 
 Com isso, todos os dados necessários já estão no Databricks para iniciar o projeto no notebook.
 
