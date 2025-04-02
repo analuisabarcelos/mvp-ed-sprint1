@@ -16,11 +16,10 @@ Os dados simulam 2 anos de vendas de uma empresa multinacional de venda de roupa
 
 Os arquivos foram baixados para o computador local para ser feito o upload no Community Databricks, plataforma sugerida e escolhida para produzir o projeto MVP.
 O processo de upload no Community Databricks é iniciado com os comandos + New -> Add or upload data no canto superior esquerdo da plataforma.
-![image](https://github.com/user-attachments/assets/3ce47fa9-a724-43e7-8440-840a87c2680a)
+![image](https://github.com/user-attachments/assets/26f32398-8668-4583-b02a-8d62d6d92e19)
 
-Os 6 arquivos são escolhidos para serem carregados e salvos na pasta "global_fashion" para melhor organização no diretório DBFS. São eles: clientes.csv, descontos.csv, empregados.csv, produtos.csv, lojas.csv e transacoes.csv
-![image](https://github.com/user-attachments/assets/63ac525a-a0cc-42ed-8cb7-2684aecc2928)
-
+Os 6 arquivos são escolhidos para serem carregados e salvos na pasta "global_fashion" para melhor organização no diretório DBFS. São eles: clientes.csv, descontos.csv, empregados.csv, produtos.csv, lojas.csv e transacoes.csv 
+[IMAGEM]
 
 Com isso, todos os dados necessários já estão no Databricks para iniciar o projeto no notebook.
 
