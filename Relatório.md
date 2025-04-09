@@ -26,6 +26,7 @@ Com isso, todos os dados necessários já estão no Databricks para iniciar o pr
 
 # 3) Modelagem
 ## 3.1) Modelo estrela
+![Lógico_MVP1v1](https://github.com/user-attachments/assets/e3be351c-2e04-4c59-ac6d-9efbef23805c)
 
 ## 3.2) Catálogo de dados
 
