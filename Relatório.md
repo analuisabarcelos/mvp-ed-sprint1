@@ -30,6 +30,24 @@ Com isso, todos os dados necessários já estão no Databricks para iniciar o pr
 
 ## 3.2) Catálogo de dados
 
+## 3.3) Dicionário de dados
+
+Tabela transações:
+![image](https://github.com/user-attachments/assets/acca1df6-e1c3-4b7f-9d1b-914283c63a0a)
+
+Tabela clientes:
+![image](https://github.com/user-attachments/assets/6f3f151c-398a-4b55-894a-484fc3850322)
+
+Tabela produtos:
+![image](https://github.com/user-attachments/assets/3e61a1b9-a323-4991-a669-fb58c476d275)
+
+Tabela funcionarios:
+![image](https://github.com/user-attachments/assets/56862200-47be-4ee1-9515-e08885ffa3eb)
+
+Tabela lojas:
+![image](https://github.com/user-attachments/assets/ddddb4d0-449b-45a4-ac5d-52068a535f54)
+
+
 # 4) Carga
 ## 4.1) Extração, transformação e carga
 
