@@ -1,8 +1,8 @@
 # 1) Objetivo do projeto
 O objetivo desse projeto de engenharia de dados é responder perguntas relacionadas a vendas de roupas no formato varejo. Deseja-se responder as questões abaixo:
-- Qual o mês com mais vendas no ano?
-- E o mês com menos vendas?
-- Qual produto é mais vendido em um ano?
+- Qual foi o produto mais vendido em todo o período disponível para análise?
+- Qual o mês com mais vendas do ano mais antigo?
+- Qual cliente mais comprou no mês de abril do ano mais recente?
 - Os produtos com mais vendas no mês são os produtos com maior taxa de desconto?
 - O mês com mais venda é o mês com maior incidência de desconto?
 
